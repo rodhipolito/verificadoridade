@@ -1,0 +1,2 @@
+# verificadoridade
+verificadoridade
